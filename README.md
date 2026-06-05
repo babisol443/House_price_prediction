@@ -8,8 +8,6 @@ While house price prediction is often treated as a technical regression problem,
 
 The objective of this project is not only to build predictive models, but also to understand how different property characteristics contribute to housing value and how feature engineering can improve model performance.
 
----
-
 ## Business Context
 
 Property valuation plays a critical role in real estate transactions and financial decision-making.
@@ -26,7 +24,6 @@ Manual valuation is often time-consuming and subject to human bias. Predictive a
 
 This project simulates such a scenario by using historical housing data to estimate future selling prices.
 
----
 
 ## Project Objectives
 
@@ -36,7 +33,6 @@ This project simulates such a scenario by using historical housing data to estim
 * Evaluate the impact of feature engineering on predictive performance.
 * Explore ensemble techniques to improve generalization.
 
----
 
 ## Data Preparation
 
@@ -66,7 +62,6 @@ A logarithmic transformation was applied to the target variable to:
 * Improve model stability.
 * Better satisfy regression assumptions.
 
----
 
 ## Modeling Approach
 
@@ -98,7 +93,6 @@ These boosting algorithms are designed to iteratively reduce prediction errors a
 
 A final ensemble approach combines predictions from multiple models to leverage their complementary strengths and improve overall robustness.
 
----
 
 ## Key Insights
 
@@ -111,7 +105,6 @@ Several observations emerged during the analysis:
 
 The project reinforced the importance of data preparation and business understanding, often contributing more to performance gains than model complexity alone.
 
----
 
 ## Skills Demonstrated
 
@@ -136,7 +129,6 @@ The project reinforced the importance of data preparation and business understan
 * Interpreting model outputs for decision-making
 * Communicating analytical findings in a business context
 
----
 
 ## Key Takeaway
 
